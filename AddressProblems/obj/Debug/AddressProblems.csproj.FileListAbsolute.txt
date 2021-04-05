@@ -1,0 +1,7 @@
+D:\AddressProblems\AddressProblems\bin\Debug\AddressProblems.exe.config
+D:\AddressProblems\AddressProblems\bin\Debug\AddressProblems.exe
+D:\AddressProblems\AddressProblems\bin\Debug\AddressProblems.pdb
+D:\AddressProblems\AddressProblems\obj\Debug\AddressProblems.csprojAssemblyReference.cache
+D:\AddressProblems\AddressProblems\obj\Debug\AddressProblems.csproj.CoreCompileInputs.cache
+D:\AddressProblems\AddressProblems\obj\Debug\AddressProblems.exe
+D:\AddressProblems\AddressProblems\obj\Debug\AddressProblems.pdb
